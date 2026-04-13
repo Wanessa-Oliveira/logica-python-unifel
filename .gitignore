@@ -1,0 +1,17 @@
+# Coisas do python que não devem subir para o github
+__pycache__/    
+*.pyc[cod]
+*$py.class 
+# mistura de java com python
+
+
+# VIsual studio code
+.vscode/
+
+#Coisas do Visual Studio que não devem subir para o github (caso tenha projeto do c#)
+.vs/
+[Bb]in/
+[Oo]bj/
+*.sln
+*.csproj
+*.suo

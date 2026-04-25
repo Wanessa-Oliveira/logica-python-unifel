@@ -1,58 +1,70 @@
-# Isso aqui é um titulo markdown!
-# 🐍 Estudos em Python
+# 🐍 Portfólio de Estudos em Python
 
-Repositório criado para registrar minha jornada de aprendizagem em Python, incluindo exercícios, pequenos projetos e experimentos de programação do Curso de Lógica de Programação com Python - UNIFEL 2026.3
+Repositório criado para documentar minha evolução prática em Python, com foco em automação de processos, lógica de programação e manipulação de dados.
 
-## 📚 Sobre
+## 👩‍💻 Sobre mim
 
-Sou formada em **Sistemas de Informação (2025)** e estou aprofundando meus conhecimentos em desenvolvimento com Python, explorando conceitos fundamentais da linguagem, lógica de programação e aplicação prática em projetos simples.
+Sou formada em **Sistemas de Informação (2025)** e possuo mais de **6 anos de experiência no setor financeiro**, atuando com rotinas operacionais, suporte técnico e gestão de processos.
 
-Este repositório reúne:
+Atualmente estou em transição para a área de tecnologia, com foco em:
 
-- exercícios de programação
-- testes de código
-- pequenos projetos
-- anotações de estudo
+- Automação com Python
+- Análise de dados (SQL)
+- Criação de dashboards (Power BI)
 
 ## 🎯 Objetivo
 
-Consolidar conhecimentos em Python e documentar minha evolução como desenvolvedora.
+Desenvolver soluções simples e eficientes utilizando Python para:
 
-Entre os tópicos estudados estão:
+- automatizar tarefas operacionais
+- reduzir retrabalho
+- organizar e analisar dados
+- apoiar tomadas de decisão
 
+## 📁 Projetos em destaque
+
+🔹 **Automação de Recibo**  
+Script que calcula valores e gera recibos formatados.
+
+🔹 **Barra de Progresso**  
+Simulação visual de progresso utilizando manipulação de strings.
+
+🔹 **Divisão de Recursos (Herança)**  
+Aplicação de lógica com divisão inteira e resto para resolução de problemas.
+
+> 🚧 Novos projetos serão adicionados conforme avanço nos estudos.
+
+## 🧠 Habilidades em desenvolvimento
+
+- Lógica de programação
 - Estruturas de controle
 - Funções
 - Manipulação de listas e dicionários
 - Entrada e saída de dados
-- Automação simples com Python
-- Boas práticas de programação
-...ao longo do processo irei acrescentando aqui!!!
+- Automação com Python
+- Organização e legibilidade de código
 
 ## 🛠 Tecnologias utilizadas
 
 - Python 3
-- Git
-- GitHub
+- Git e GitHub
 - VS Code
 
 ## 📂 Estrutura do repositório
 
 
-## 📖 Aprendizados
+basico/
+intermediario/
+projetos/
 
-Durante esses estudos estou desenvolvendo habilidades como:
 
-- resolução de problemas
-- pensamento lógico
-- estruturação de algoritmos
-- organização de código
+## 📈 Em evolução
 
-## 👩‍💻 Autora
+Este repositório faz parte do meu processo de desenvolvimento profissional, com foco em me tornar uma profissional capaz de identificar problemas e aplicar soluções tecnológicas no contexto organizacional.
 
-Wanessa Ferreira de Oliveira  
-Graduada em Sistemas de Informação — 2025  
-Estudante de programação e tecnologia
+## 📌 Autora
 
-## 📌 Observação
-
-Este repositório faz parte do meu processo de aprendizagem e evolução na área de desenvolvimento e busco ser uma solucionadora de problemas.
+**Wanessa Ferreira de Oliveira**  
+Graduada em Sistemas de Informação  
+Profissional com experiência no setor financeiro  
+Em transição para área de automação e dados

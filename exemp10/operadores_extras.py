@@ -1,9 +1,13 @@
 a= [1 , 2]
 b= [1 , 2]
+print (a==b) # true
+print (a is b) # false # a e b não são a mesma coisa na memoria pq apontam para locais diferentes ou seja a e b não são o mesmo endereço na memoria
 
-
+#  se nesse caso abaixo:
+b = a # b agora aponta para o memso endereço que a, e o objeto [1,2] de b será destruído!
 print (a==b) # true
 print (a is b) # true
+
 
 print("\n\n\n")
 

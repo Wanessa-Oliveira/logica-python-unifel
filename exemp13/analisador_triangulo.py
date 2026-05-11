@@ -16,14 +16,8 @@ print("-" * 30)
 
 a = float(input("Digite o valor do lado A: "))
 b = float(input("Digite o valor do lado B: "))
-c = float(input("Digite o valor do lado C: "))
-
-# validação: lados devem ser positivos
-if a > 0 and b > 0 and c > 0:
-
-    # regra de existência
-    if (a + b > c) and (a + c > b) and (b + c > a):
         print("Os lados formam um triângulo!", end=" ")
+        #PRINT()=>\\ o fim fe tofo print() é um "\n". O end="" tinha essa quebra de linha!
 
         # classificação
         if a == b == c:
@@ -35,7 +29,7 @@ if a > 0 and b > 0 and c > 0:
 
     else:
         print("Os lados NÃO formam um triângulo.")
-        print("Um lado é maior ou igual à soma dos outros dois.")
+        print("Um dos lados é maior ou igual à soma dos outros dois.")
 
 else:
     print("Valores inválidos! Os lados devem ser maiores que zero.")

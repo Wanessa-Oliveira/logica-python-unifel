@@ -1,4 +1,4 @@
-# exemp_xx (login) :rie duas variaveis user_db = "admin" e pass_db - " 123"
+# exemp_xx (login) :crie duas variaveis user_db = "admin" e pass_db - " 123"
 # Recwb via iput o usuario e senha e exiba true se ambos baterem.
 
 user_db = "admin"

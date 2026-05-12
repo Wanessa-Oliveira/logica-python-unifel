@@ -4,7 +4,7 @@
 # ● Exemplo: 3661 segundos = 1 Hora, 1 Minuto e 1 Segundo.
 # ● Use ferramentas dadas em aulas até aqui. Não use funções prontas
 
-tempo_em_segundos = int(input("Digite o tempo em segundos: "))
+tempo_em_segundos = int(input=("Digite o tempo em segundos: "))
 horas = tempo_em_segundos // 3600
 resto_segundos = tempo_em_segundos % 3600   
 minutos = resto_segundos // 60
